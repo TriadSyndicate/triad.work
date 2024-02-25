@@ -1,0 +1,86 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "MeDeets Backend",
+      "content": "## MeDeets\n1.  *Save Patient*\n2. *Edit Patient*\n3. **sendTwilioSMS**\n4. \n"
+    },
+    {
+      "id": 2,
+      "title": "Backend-Routes",
+      "content": "```  Doctor Module ```\n1. Save a Patient\n2. Send Login Credentials to Patient\n3. Edit Patient Details\n4. Make **Appointments**\n5. Write *Prescriptions*\n****\n1. Refactor old code\n2. Setup components structure in *'Islands Architecture'"
+    },
+    {
+      "id": 3,
+      "title": "MeDeets Frontend",
+      "content": "1. Connect Axios to Entry JS files\n2. Backend API connection\n3. Refactor views into separate components w/ proper structure\n4. Pray"
+    },
+    {
+      "id": 4,
+      "title": "work-dashboard",
+      "content": "1. ~add countdown pinia store~\n2. ~w/ jsonserver store work hours for each project~\n3. ~Calculate each project work hours~\n4. ~**Add Visual Chart showing project progress & hours put**~\n5. *Setup clearer dashbard UI w/ darkmode toggleable*\n6. Add weather card w/ day forecast\n"
+    },
+    {
+      "id": 5,
+      "title": "Motivation",
+      "content": "Discipline & Consistency!\n\n```IN CODE WE TRUST```"
+    },
+    {
+      "id": 6,
+      "title": "saul",
+      "content": " 1. physical culture\n2. workout programmes: land, water\n3. portfolio."
+    },
+    {
+      "id": 7,
+      "title": "Travel App",
+      "content": "git clone https://github.com/flutter/flutter.git -b stable\n\n- Sign up\n- Login\n- Verify Email\n- Forgot Password"
+    },
+    {
+      "id": 8,
+      "title": "PetrolApp",
+      "content": "Super Petrol App Contract\n\n1. UI\n2. Flutter\n3. EZ"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "project": "MeDeets",
+      "description": "MeDeets Project Doctor, Client & Backend Modules",
+      "workhours": 26.393691388888886,
+      "inProgress": "true",
+      "currentDiffinMilli": 0
+    },
+    {
+      "id": 2,
+      "project": "Work-Dashboard",
+      "description": "Current working dashboard",
+      "workhours": 5.723636944444444,
+      "inProgress": "true",
+      "currentDiffinMilli": 0
+    },
+    {
+      "id": 3,
+      "project": "Travel App",
+      "description": "Flutter, Backend modules for Joel App",
+      "workhours": 11.375435833333334,
+      "inProgress": "false",
+      "currentDiffinMilli": 0
+    },
+    {
+      "id": 4,
+      "project": "Valorant",
+      "description": "Competitive Hours",
+      "workhours": 3.1487233333333333,
+      "inProgress": "false",
+      "currentDiffinMilli": 0
+    },
+    {
+      "id": 5,
+      "project": "ChamaApp",
+      "description": "BreakOut",
+      "workhours": 0,
+      "inProgress": "false",
+      "currentDiffinMilli": 0
+    }
+  ]
+}
